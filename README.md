@@ -1,4 +1,4 @@
-<img src="/APP" border="0">
+<img src="App.png" border="0">
 
 <h1> LifePilot a golden idea waiting to be fulfilled</h1>
 
